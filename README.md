@@ -16,8 +16,8 @@ Tags: Tasks can be tagged for easier categorization and filtering.
 Due Date: Each task can have a due date to help users keep track of deadlines.
 ---------------------------------------------------------------------------------------------------------------
 #Installation Steps after downloading the zip, extract and setup                 
-  1-composer install
-  2-cp .env.example .env
-  3-php artisan key:generate
-  4-php artisan migrate
-  5-php artisan serve
+  1-composer install           
+  2-cp .env.example .env         
+  3-php artisan key:generate          
+  4-php artisan migrate      
+  5-php artisan serve          
